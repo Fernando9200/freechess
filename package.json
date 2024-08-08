@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "tsc && nodemon dist/index.js",
-    "build": "tsc && cp -r ./src/public ./dist/public",
+    "build": "tsc",
     "test": "tsc && node dist/test/reports.js"
   },
   "devDependencies": {
