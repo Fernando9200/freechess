@@ -8,6 +8,7 @@
 }
 
 #review-panel {
+    margin-top: 40px;
     display: grid;
     grid-template-columns: 100%;
     background-color: var(--secondary-color);
